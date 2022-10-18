@@ -1,8 +1,7 @@
 # T3A5
 
 ## Etapa 1 
-- Desarrolla una aplicación de cajero automático en Java en la cual se muestre un menú para seleccionar la operación requerida por el usuario:
-
+Desarrolla una aplicación de cajero automático en Java en la cual se muestre un menú para seleccionar la operación requerida por el usuario:
 - El usuario debe ingresar su tarjeta (número y NIP) para ingresar al menú principal, en caso de que no coincida con sus datos entonces deberá mostrar una alerta donde le indique que sus datos son erróneos.
 
 - El menú principal debe tener las siguientes opciones:
@@ -22,7 +21,7 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 1. Entrada:
 - String numeroDeTarjeta
 - int pin
-- floar saldo
+- float saldo
 - Adicionales: nombre, email, telefono
 
 2. Proceso:
