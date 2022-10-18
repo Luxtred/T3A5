@@ -22,6 +22,7 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 - Entrada:
 - String numeroDeTarjeta
 - int pin
+- floar saldo
 - Adicionales: nombre, email, telefono
 
 - Proceso:
