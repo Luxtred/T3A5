@@ -31,10 +31,15 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 
 3. Salida
 ~~~
-|----------------|
-|Diseñar interfaz| 
-|----------------|
+|-----------------------------------------------------------------|
+|  Consultar Saldo:                   Consultar estado de cuenta  |   
+|                                                                 |          
+|  Retirar efectivo      Otras opciones.         Seguros          |
+|                                                                 |
+|   Creditos                                     Salir            |
+|-----------------------------------------------------------------|
 ~~~
+
 
 ## Etapa 3
 
