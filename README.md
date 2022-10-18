@@ -11,9 +11,9 @@
 2. Consultar estado de cuenta
 3. Retirar efectivo
 4. Otras opciones
-a. Seguros
-b. Créditos
-c. Salir
+1. Seguros
+2. Créditos
+3. Salir
 
 Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 
