@@ -7,13 +7,13 @@
 
 - El menú principal debe tener las siguientes opciones:
 
-1.Consultar saldo
-2.Consultar estado de cuenta
-3.Retirar efectivo
-4.Otras opciones
-a.Seguros
-b.Créditos
-c.Salir
+1. Consultar saldo
+2. Consultar estado de cuenta
+3. Retirar efectivo
+4. Otras opciones
+a. Seguros
+b. Créditos
+c. Salir
 
 Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 
