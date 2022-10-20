@@ -41,4 +41,6 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 
 ## Etapa 3
 
+![](https://github.com/Luxtred/T3A5/blob/main/Banco.png)
+
 ## Etapa 4
