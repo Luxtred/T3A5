@@ -39,7 +39,6 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 |-----------------------------------------------------------------|
 ~~~
 
-
 ## Etapa 3
 
 ## Etapa 4
