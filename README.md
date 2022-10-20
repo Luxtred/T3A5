@@ -19,7 +19,7 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 ## Etapa 2. - Diseño de solución.
 
 1. Entrada:
-- String numeroDeTarjeta
+- String numeroCuenta
 - int pin
 - float saldo
 - Adicionales: nombre, email, telefono
